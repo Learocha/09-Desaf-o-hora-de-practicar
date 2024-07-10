@@ -3,3 +3,5 @@ Debes adivinar un numero aleatorio del 1 al 10, te contará el número de intent
 
 
 ![Imagen Readme](https://github.com/Learocha/Juego-Numero-Secreto/assets/31718326/2da5c166-f1e0-49f0-bebf-7537d14b28af)
+
+Sistema de Registro 2
